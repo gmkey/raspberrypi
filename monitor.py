@@ -35,7 +35,7 @@ class Monitor:
     colorkey = [0, 0, 0]
 
 
-    scheveningen_tide = 'http://live.getij.nl/getij_resultaat.cfm?location=SCHEVNGN'
+    scheveningen_tide = 'http://getij.rws.nl/getij_resultaat.cfm?location=SCHEVNGN'
     scheveningen_baseurl = 'http://www.scheveningenlive.nl/'
     scheveningen_webcams = ['cam_1.jpg', 'cam2.jpg', 'cam3.jpg', 'pier.jpg']
 
